@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>NeedIt Daily - NeedIt: Active Weekly</display>
+        <indicator display_value="NeedIt: Active Weekly">135e7f21470521108dde5e52e36d436b</indicator>
+        <job display_value="NeedIt Daily">a1a7d19b47c121108dde5e52e36d4356</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 13:52:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31d7519b47c121108dde5e52e36d4336</sys_id>
+        <sys_name>NeedIt: Active Weekly.NeedIt Daily</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_31d7519b47c121108dde5e52e36d4336</sys_update_name>
+    </pa_job_indicators>
+</record_update>
